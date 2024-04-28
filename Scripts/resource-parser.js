@@ -2662,7 +2662,7 @@ function get_emoji(emojip, sname) {
     "🇵🇸": ["巴勒斯坦"],
     "🇬🇫": ["法屬圭亞那","法属圭亚那"],
     "🇹🇹": ["特立尼达和多巴哥","特立尼達和多巴哥"],
-    "YE": ["也门", "YEM", "Yemen"]
+    "🇾🇪": ["也门", "YEM", "Yemen"]
   }
     str1 = JSON.stringify(Lmoji)
     aa = JSON.parse(str1)
