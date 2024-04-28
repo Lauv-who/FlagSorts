@@ -2612,7 +2612,7 @@ function get_emoji(emojip, sname) {
     "🇲🇰": ["马其顿","馬其頓", "Macedonia"],
     "🇲🇹": ["马耳他", "馬其他", "Malta"],
     "🇻🇪": ["委内瑞拉", "Venezuela"],
-    "🇧🇦": ["波黑共和国","波黑", "Bosnia and Herzegovina", "波斯尼亚和黑塞哥维纳"],
+    "🇧🇦": ["波黑共和国","波黑", "Bosnia and Herzegovina", "波斯尼亚和黑塞哥维那"],
     "🇬🇪": ["格魯吉亞","格鲁吉亚", "Georgia"],
     "🇦🇱": ["阿爾巴尼亞","阿尔巴尼亚", "Albania"],
     "🇨🇾": ["CY","塞浦路斯", "Cyprus"],
@@ -2662,7 +2662,7 @@ function get_emoji(emojip, sname) {
     "🇵🇸": ["巴勒斯坦"],
     "🇬🇫": ["法屬圭亞那","法属圭亚那"],
     "🇹🇹": ["特立尼达和多巴哥","特立尼達和多巴哥"],
-    "🇾🇪": ["也门", "YEM", "Yemen"]
+    "🇾🇪": ["也门", "YEM", "Yemen"],
   }
     str1 = JSON.stringify(Lmoji)
     aa = JSON.parse(str1)
