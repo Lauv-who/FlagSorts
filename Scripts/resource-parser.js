@@ -2691,7 +2691,9 @@ function get_emoji(emojip, sname) {
     "🇹🇿": ["坦桑尼亚", "Tanzania"],
     "🇵🇬": ["巴布亚新几内亚", "Papua New Guinea"],
     "🇹🇴": ["汤加", "Kingdom of Tonga"],
-    "🇲🇬": ["马达加斯加", "Madagascar"]
+    "🇲🇬": ["马达加斯加", "Madagascar"],
+    "🇸🇩": ["苏丹", "Republic of the Sudan"],
+    "🇧🇮": ["布隆迪", "蒲隆地", "Burundi"]
   }
     str1 = JSON.stringify(Lmoji)
     aa = JSON.parse(str1)
